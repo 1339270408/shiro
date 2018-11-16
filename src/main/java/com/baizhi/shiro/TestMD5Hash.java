@@ -1,4 +1,4 @@
-package com.baizhi.one;
+package com.baizhi.shiro;
 
 import org.apache.shiro.crypto.hash.Md5Hash;
 
